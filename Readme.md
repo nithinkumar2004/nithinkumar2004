@@ -15,13 +15,4 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=highcontrast)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=highcontrast)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
 
