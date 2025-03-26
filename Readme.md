@@ -1,20 +1,36 @@
-# Hi, I'm NITHIN KUMAR👋
-- 🔭 I’m currently working on Virtual Reality Operating System
-- 🌱 I’m currently learning about Operating System
-- 👯 I’m looking to collaborate on...
-- 📫 How to reach me: desamsettinithin@gmail.com
-- ⚡ Fun fact: ...
+# Hi there, I'm Nithin Kumar! 👋
 
-- ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+🎓 **Student at Sri Manakula Vinayagar Engineering College**  
+📚 Pursuing B.Tech in Computer and Communication Engineering  
+💻 Passionate about Full Stack Web Development and Operating Systems
 
-# Here is my portfolio link
-(https://gold-angeline-78.tiiny.site)
+## 🚀 About Me
 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- 🌱 Currently delving into **Operating Systems** and working on a **Virtual Reality Operating System** project.
+- 🤝 Open to collaborating on innovative web development and OS projects.
+- 📫 Reach me at: desamsettinithin@gmail.com
+- 🌐 Check out my portfolio: [gold-angeline-78.tiiny.site](https://gold-angeline-78.tiiny.site)
 
+## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 
+## 📈 GitHub Stats
+
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkumar2004&show_icons=true&theme=dark)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+
+---
+
+*Let's build something amazing together!*
